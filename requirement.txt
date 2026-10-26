@@ -1,0 +1,5 @@
+faster-whisper>=1.0.0
+av<14
+yt-dlp>=2024.0.0
+requests>=2.28.0
+pyperclip>=1.8.0
